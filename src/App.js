@@ -8,6 +8,7 @@ const App = () => {
     <>
       <Counter />
       <Coin />
+      <h1>new add</h1>
     </>
   );
 };
